@@ -1,0 +1,7 @@
+C:\SourceCode\SarahsCards\SarahsCards\SarahsCards\bin\Debug\SarahsCards.exe.config
+C:\SourceCode\SarahsCards\SarahsCards\SarahsCards\bin\Debug\SarahsCards.exe
+C:\SourceCode\SarahsCards\SarahsCards\SarahsCards\bin\Debug\SarahsCards.pdb
+C:\SourceCode\SarahsCards\SarahsCards\SarahsCards\obj\Debug\SarahsCards.csproj.AssemblyReference.cache
+C:\SourceCode\SarahsCards\SarahsCards\SarahsCards\obj\Debug\SarahsCards.csproj.CoreCompileInputs.cache
+C:\SourceCode\SarahsCards\SarahsCards\SarahsCards\obj\Debug\SarahsCards.exe
+C:\SourceCode\SarahsCards\SarahsCards\SarahsCards\obj\Debug\SarahsCards.pdb
